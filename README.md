@@ -6,8 +6,7 @@ This repository contains a Jupyter Notebook designed to analyze and predict stoc
 - **Data Collection**: Import stock market data from online sources such as Yahoo Finance.
 - **Data Preprocessing**: Handle missing values, normalize data, and perform exploratory data analysis (EDA).
 - **Visualization**: Create detailed visualizations to understand historical stock trends.
-- **Prediction**:
-- Use of Monte Carlo Simulations to predict Value at Risk.
+- **Prediction**: Use of Monte Carlo Simulations to predict Value at Risk.
 
 ## Dependencies
 The notebook requires the following Python libraries:
